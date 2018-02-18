@@ -1,0 +1,1166 @@
+****CHECK LENGTH FUNCTION****
+
+String: a
+length: 1
+String: ab
+length: 2
+String: abc
+length: 3
+String: abcd
+length: 4
+String: abcde
+length: 5
+String: abcdef
+length: 6
+String: abcdefg
+length: 7
+String: abcdefgh
+length: 8
+String: abcdefghi
+length: 9
+String: abcdefghij
+length: 10
+String: abcdefghijk
+length: 11
+String: abcdefghijkl
+length: 12
+String: abcdefghijklm
+length: 13
+String: abcdefghijklmn
+length: 14
+String: abcdefghijklmno
+length: 15
+String: abcdefghijklmnop
+length: 16
+String: abcdefghijklmnopq
+length: 17
+String: abcdefghijklmnopqr
+length: 18
+String: abcdefghijklmnopqrs
+length: 19
+String: abcdefghijklmnopqrst
+length: 20
+String: abcdefghijklmnopqrstu
+length: 21
+String: abcdefghijklmnopqrstuv
+length: 22
+String: abcdefghijklmnopqrstuvw
+length: 23
+String: abcdefghijklmnopqrstuvwx
+length: 24
+String: abcdefghijklmnopqrstuvwxy
+length: 25
+String: abcdefghijklmnopqrstuvwxyz
+length: 26
+
+****CHECK COMPARETO FUNCTION****
+
+a is equal to a
+a is smaller than ab
+a is smaller than abc
+a is smaller than abcd
+a is smaller than abcde
+a is smaller than abcdef
+a is smaller than abcdefg
+a is smaller than abcdefgh
+a is smaller than abcdefghi
+a is smaller than abcdefghij
+a is smaller than abcdefghijk
+a is smaller than abcdefghijkl
+a is smaller than abcdefghijklm
+a is smaller than abcdefghijklmn
+a is smaller than abcdefghijklmno
+a is smaller than abcdefghijklmnop
+a is smaller than abcdefghijklmnopq
+a is smaller than abcdefghijklmnopqr
+a is smaller than abcdefghijklmnopqrs
+a is smaller than abcdefghijklmnopqrst
+a is smaller than abcdefghijklmnopqrstu
+a is smaller than abcdefghijklmnopqrstuv
+a is smaller than abcdefghijklmnopqrstuvw
+a is smaller than abcdefghijklmnopqrstuvwx
+a is smaller than abcdefghijklmnopqrstuvwxy
+a is smaller than abcdefghijklmnopqrstuvwxyz
+ab is greater than a
+ab is equal to ab
+ab is smaller than abc
+ab is smaller than abcd
+ab is smaller than abcde
+ab is smaller than abcdef
+ab is smaller than abcdefg
+ab is smaller than abcdefgh
+ab is smaller than abcdefghi
+ab is smaller than abcdefghij
+ab is smaller than abcdefghijk
+ab is smaller than abcdefghijkl
+ab is smaller than abcdefghijklm
+ab is smaller than abcdefghijklmn
+ab is smaller than abcdefghijklmno
+ab is smaller than abcdefghijklmnop
+ab is smaller than abcdefghijklmnopq
+ab is smaller than abcdefghijklmnopqr
+ab is smaller than abcdefghijklmnopqrs
+ab is smaller than abcdefghijklmnopqrst
+ab is smaller than abcdefghijklmnopqrstu
+ab is smaller than abcdefghijklmnopqrstuv
+ab is smaller than abcdefghijklmnopqrstuvw
+ab is smaller than abcdefghijklmnopqrstuvwx
+ab is smaller than abcdefghijklmnopqrstuvwxy
+ab is smaller than abcdefghijklmnopqrstuvwxyz
+abc is greater than a
+abc is greater than ab
+abc is equal to abc
+abc is smaller than abcd
+abc is smaller than abcde
+abc is smaller than abcdef
+abc is smaller than abcdefg
+abc is smaller than abcdefgh
+abc is smaller than abcdefghi
+abc is smaller than abcdefghij
+abc is smaller than abcdefghijk
+abc is smaller than abcdefghijkl
+abc is smaller than abcdefghijklm
+abc is smaller than abcdefghijklmn
+abc is smaller than abcdefghijklmno
+abc is smaller than abcdefghijklmnop
+abc is smaller than abcdefghijklmnopq
+abc is smaller than abcdefghijklmnopqr
+abc is smaller than abcdefghijklmnopqrs
+abc is smaller than abcdefghijklmnopqrst
+abc is smaller than abcdefghijklmnopqrstu
+abc is smaller than abcdefghijklmnopqrstuv
+abc is smaller than abcdefghijklmnopqrstuvw
+abc is smaller than abcdefghijklmnopqrstuvwx
+abc is smaller than abcdefghijklmnopqrstuvwxy
+abc is smaller than abcdefghijklmnopqrstuvwxyz
+abcd is greater than a
+abcd is greater than ab
+abcd is greater than abc
+abcd is equal to abcd
+abcd is smaller than abcde
+abcd is smaller than abcdef
+abcd is smaller than abcdefg
+abcd is smaller than abcdefgh
+abcd is smaller than abcdefghi
+abcd is smaller than abcdefghij
+abcd is smaller than abcdefghijk
+abcd is smaller than abcdefghijkl
+abcd is smaller than abcdefghijklm
+abcd is smaller than abcdefghijklmn
+abcd is smaller than abcdefghijklmno
+abcd is smaller than abcdefghijklmnop
+abcd is smaller than abcdefghijklmnopq
+abcd is smaller than abcdefghijklmnopqr
+abcd is smaller than abcdefghijklmnopqrs
+abcd is smaller than abcdefghijklmnopqrst
+abcd is smaller than abcdefghijklmnopqrstu
+abcd is smaller than abcdefghijklmnopqrstuv
+abcd is smaller than abcdefghijklmnopqrstuvw
+abcd is smaller than abcdefghijklmnopqrstuvwx
+abcd is smaller than abcdefghijklmnopqrstuvwxy
+abcd is smaller than abcdefghijklmnopqrstuvwxyz
+abcde is greater than a
+abcde is greater than ab
+abcde is greater than abc
+abcde is greater than abcd
+abcde is equal to abcde
+abcde is smaller than abcdef
+abcde is smaller than abcdefg
+abcde is smaller than abcdefgh
+abcde is smaller than abcdefghi
+abcde is smaller than abcdefghij
+abcde is smaller than abcdefghijk
+abcde is smaller than abcdefghijkl
+abcde is smaller than abcdefghijklm
+abcde is smaller than abcdefghijklmn
+abcde is smaller than abcdefghijklmno
+abcde is smaller than abcdefghijklmnop
+abcde is smaller than abcdefghijklmnopq
+abcde is smaller than abcdefghijklmnopqr
+abcde is smaller than abcdefghijklmnopqrs
+abcde is smaller than abcdefghijklmnopqrst
+abcde is smaller than abcdefghijklmnopqrstu
+abcde is smaller than abcdefghijklmnopqrstuv
+abcde is smaller than abcdefghijklmnopqrstuvw
+abcde is smaller than abcdefghijklmnopqrstuvwx
+abcde is smaller than abcdefghijklmnopqrstuvwxy
+abcde is smaller than abcdefghijklmnopqrstuvwxyz
+abcdef is greater than a
+abcdef is greater than ab
+abcdef is greater than abc
+abcdef is greater than abcd
+abcdef is greater than abcde
+abcdef is equal to abcdef
+abcdef is smaller than abcdefg
+abcdef is smaller than abcdefgh
+abcdef is smaller than abcdefghi
+abcdef is smaller than abcdefghij
+abcdef is smaller than abcdefghijk
+abcdef is smaller than abcdefghijkl
+abcdef is smaller than abcdefghijklm
+abcdef is smaller than abcdefghijklmn
+abcdef is smaller than abcdefghijklmno
+abcdef is smaller than abcdefghijklmnop
+abcdef is smaller than abcdefghijklmnopq
+abcdef is smaller than abcdefghijklmnopqr
+abcdef is smaller than abcdefghijklmnopqrs
+abcdef is smaller than abcdefghijklmnopqrst
+abcdef is smaller than abcdefghijklmnopqrstu
+abcdef is smaller than abcdefghijklmnopqrstuv
+abcdef is smaller than abcdefghijklmnopqrstuvw
+abcdef is smaller than abcdefghijklmnopqrstuvwx
+abcdef is smaller than abcdefghijklmnopqrstuvwxy
+abcdef is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefg is greater than a
+abcdefg is greater than ab
+abcdefg is greater than abc
+abcdefg is greater than abcd
+abcdefg is greater than abcde
+abcdefg is greater than abcdef
+abcdefg is equal to abcdefg
+abcdefg is smaller than abcdefgh
+abcdefg is smaller than abcdefghi
+abcdefg is smaller than abcdefghij
+abcdefg is smaller than abcdefghijk
+abcdefg is smaller than abcdefghijkl
+abcdefg is smaller than abcdefghijklm
+abcdefg is smaller than abcdefghijklmn
+abcdefg is smaller than abcdefghijklmno
+abcdefg is smaller than abcdefghijklmnop
+abcdefg is smaller than abcdefghijklmnopq
+abcdefg is smaller than abcdefghijklmnopqr
+abcdefg is smaller than abcdefghijklmnopqrs
+abcdefg is smaller than abcdefghijklmnopqrst
+abcdefg is smaller than abcdefghijklmnopqrstu
+abcdefg is smaller than abcdefghijklmnopqrstuv
+abcdefg is smaller than abcdefghijklmnopqrstuvw
+abcdefg is smaller than abcdefghijklmnopqrstuvwx
+abcdefg is smaller than abcdefghijklmnopqrstuvwxy
+abcdefg is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefgh is greater than a
+abcdefgh is greater than ab
+abcdefgh is greater than abc
+abcdefgh is greater than abcd
+abcdefgh is greater than abcde
+abcdefgh is greater than abcdef
+abcdefgh is greater than abcdefg
+abcdefgh is equal to abcdefgh
+abcdefgh is smaller than abcdefghi
+abcdefgh is smaller than abcdefghij
+abcdefgh is smaller than abcdefghijk
+abcdefgh is smaller than abcdefghijkl
+abcdefgh is smaller than abcdefghijklm
+abcdefgh is smaller than abcdefghijklmn
+abcdefgh is smaller than abcdefghijklmno
+abcdefgh is smaller than abcdefghijklmnop
+abcdefgh is smaller than abcdefghijklmnopq
+abcdefgh is smaller than abcdefghijklmnopqr
+abcdefgh is smaller than abcdefghijklmnopqrs
+abcdefgh is smaller than abcdefghijklmnopqrst
+abcdefgh is smaller than abcdefghijklmnopqrstu
+abcdefgh is smaller than abcdefghijklmnopqrstuv
+abcdefgh is smaller than abcdefghijklmnopqrstuvw
+abcdefgh is smaller than abcdefghijklmnopqrstuvwx
+abcdefgh is smaller than abcdefghijklmnopqrstuvwxy
+abcdefgh is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefghi is greater than a
+abcdefghi is greater than ab
+abcdefghi is greater than abc
+abcdefghi is greater than abcd
+abcdefghi is greater than abcde
+abcdefghi is greater than abcdef
+abcdefghi is greater than abcdefg
+abcdefghi is greater than abcdefgh
+abcdefghi is equal to abcdefghi
+abcdefghi is smaller than abcdefghij
+abcdefghi is smaller than abcdefghijk
+abcdefghi is smaller than abcdefghijkl
+abcdefghi is smaller than abcdefghijklm
+abcdefghi is smaller than abcdefghijklmn
+abcdefghi is smaller than abcdefghijklmno
+abcdefghi is smaller than abcdefghijklmnop
+abcdefghi is smaller than abcdefghijklmnopq
+abcdefghi is smaller than abcdefghijklmnopqr
+abcdefghi is smaller than abcdefghijklmnopqrs
+abcdefghi is smaller than abcdefghijklmnopqrst
+abcdefghi is smaller than abcdefghijklmnopqrstu
+abcdefghi is smaller than abcdefghijklmnopqrstuv
+abcdefghi is smaller than abcdefghijklmnopqrstuvw
+abcdefghi is smaller than abcdefghijklmnopqrstuvwx
+abcdefghi is smaller than abcdefghijklmnopqrstuvwxy
+abcdefghi is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefghij is greater than a
+abcdefghij is greater than ab
+abcdefghij is greater than abc
+abcdefghij is greater than abcd
+abcdefghij is greater than abcde
+abcdefghij is greater than abcdef
+abcdefghij is greater than abcdefg
+abcdefghij is greater than abcdefgh
+abcdefghij is greater than abcdefghi
+abcdefghij is equal to abcdefghij
+abcdefghij is smaller than abcdefghijk
+abcdefghij is smaller than abcdefghijkl
+abcdefghij is smaller than abcdefghijklm
+abcdefghij is smaller than abcdefghijklmn
+abcdefghij is smaller than abcdefghijklmno
+abcdefghij is smaller than abcdefghijklmnop
+abcdefghij is smaller than abcdefghijklmnopq
+abcdefghij is smaller than abcdefghijklmnopqr
+abcdefghij is smaller than abcdefghijklmnopqrs
+abcdefghij is smaller than abcdefghijklmnopqrst
+abcdefghij is smaller than abcdefghijklmnopqrstu
+abcdefghij is smaller than abcdefghijklmnopqrstuv
+abcdefghij is smaller than abcdefghijklmnopqrstuvw
+abcdefghij is smaller than abcdefghijklmnopqrstuvwx
+abcdefghij is smaller than abcdefghijklmnopqrstuvwxy
+abcdefghij is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefghijk is greater than a
+abcdefghijk is greater than ab
+abcdefghijk is greater than abc
+abcdefghijk is greater than abcd
+abcdefghijk is greater than abcde
+abcdefghijk is greater than abcdef
+abcdefghijk is greater than abcdefg
+abcdefghijk is greater than abcdefgh
+abcdefghijk is greater than abcdefghi
+abcdefghijk is greater than abcdefghij
+abcdefghijk is equal to abcdefghijk
+abcdefghijk is smaller than abcdefghijkl
+abcdefghijk is smaller than abcdefghijklm
+abcdefghijk is smaller than abcdefghijklmn
+abcdefghijk is smaller than abcdefghijklmno
+abcdefghijk is smaller than abcdefghijklmnop
+abcdefghijk is smaller than abcdefghijklmnopq
+abcdefghijk is smaller than abcdefghijklmnopqr
+abcdefghijk is smaller than abcdefghijklmnopqrs
+abcdefghijk is smaller than abcdefghijklmnopqrst
+abcdefghijk is smaller than abcdefghijklmnopqrstu
+abcdefghijk is smaller than abcdefghijklmnopqrstuv
+abcdefghijk is smaller than abcdefghijklmnopqrstuvw
+abcdefghijk is smaller than abcdefghijklmnopqrstuvwx
+abcdefghijk is smaller than abcdefghijklmnopqrstuvwxy
+abcdefghijk is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefghijkl is greater than a
+abcdefghijkl is greater than ab
+abcdefghijkl is greater than abc
+abcdefghijkl is greater than abcd
+abcdefghijkl is greater than abcde
+abcdefghijkl is greater than abcdef
+abcdefghijkl is greater than abcdefg
+abcdefghijkl is greater than abcdefgh
+abcdefghijkl is greater than abcdefghi
+abcdefghijkl is greater than abcdefghij
+abcdefghijkl is greater than abcdefghijk
+abcdefghijkl is equal to abcdefghijkl
+abcdefghijkl is smaller than abcdefghijklm
+abcdefghijkl is smaller than abcdefghijklmn
+abcdefghijkl is smaller than abcdefghijklmno
+abcdefghijkl is smaller than abcdefghijklmnop
+abcdefghijkl is smaller than abcdefghijklmnopq
+abcdefghijkl is smaller than abcdefghijklmnopqr
+abcdefghijkl is smaller than abcdefghijklmnopqrs
+abcdefghijkl is smaller than abcdefghijklmnopqrst
+abcdefghijkl is smaller than abcdefghijklmnopqrstu
+abcdefghijkl is smaller than abcdefghijklmnopqrstuv
+abcdefghijkl is smaller than abcdefghijklmnopqrstuvw
+abcdefghijkl is smaller than abcdefghijklmnopqrstuvwx
+abcdefghijkl is smaller than abcdefghijklmnopqrstuvwxy
+abcdefghijkl is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefghijklm is greater than a
+abcdefghijklm is greater than ab
+abcdefghijklm is greater than abc
+abcdefghijklm is greater than abcd
+abcdefghijklm is greater than abcde
+abcdefghijklm is greater than abcdef
+abcdefghijklm is greater than abcdefg
+abcdefghijklm is greater than abcdefgh
+abcdefghijklm is greater than abcdefghi
+abcdefghijklm is greater than abcdefghij
+abcdefghijklm is greater than abcdefghijk
+abcdefghijklm is greater than abcdefghijkl
+abcdefghijklm is equal to abcdefghijklm
+abcdefghijklm is smaller than abcdefghijklmn
+abcdefghijklm is smaller than abcdefghijklmno
+abcdefghijklm is smaller than abcdefghijklmnop
+abcdefghijklm is smaller than abcdefghijklmnopq
+abcdefghijklm is smaller than abcdefghijklmnopqr
+abcdefghijklm is smaller than abcdefghijklmnopqrs
+abcdefghijklm is smaller than abcdefghijklmnopqrst
+abcdefghijklm is smaller than abcdefghijklmnopqrstu
+abcdefghijklm is smaller than abcdefghijklmnopqrstuv
+abcdefghijklm is smaller than abcdefghijklmnopqrstuvw
+abcdefghijklm is smaller than abcdefghijklmnopqrstuvwx
+abcdefghijklm is smaller than abcdefghijklmnopqrstuvwxy
+abcdefghijklm is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefghijklmn is greater than a
+abcdefghijklmn is greater than ab
+abcdefghijklmn is greater than abc
+abcdefghijklmn is greater than abcd
+abcdefghijklmn is greater than abcde
+abcdefghijklmn is greater than abcdef
+abcdefghijklmn is greater than abcdefg
+abcdefghijklmn is greater than abcdefgh
+abcdefghijklmn is greater than abcdefghi
+abcdefghijklmn is greater than abcdefghij
+abcdefghijklmn is greater than abcdefghijk
+abcdefghijklmn is greater than abcdefghijkl
+abcdefghijklmn is greater than abcdefghijklm
+abcdefghijklmn is equal to abcdefghijklmn
+abcdefghijklmn is smaller than abcdefghijklmno
+abcdefghijklmn is smaller than abcdefghijklmnop
+abcdefghijklmn is smaller than abcdefghijklmnopq
+abcdefghijklmn is smaller than abcdefghijklmnopqr
+abcdefghijklmn is smaller than abcdefghijklmnopqrs
+abcdefghijklmn is smaller than abcdefghijklmnopqrst
+abcdefghijklmn is smaller than abcdefghijklmnopqrstu
+abcdefghijklmn is smaller than abcdefghijklmnopqrstuv
+abcdefghijklmn is smaller than abcdefghijklmnopqrstuvw
+abcdefghijklmn is smaller than abcdefghijklmnopqrstuvwx
+abcdefghijklmn is smaller than abcdefghijklmnopqrstuvwxy
+abcdefghijklmn is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefghijklmno is greater than a
+abcdefghijklmno is greater than ab
+abcdefghijklmno is greater than abc
+abcdefghijklmno is greater than abcd
+abcdefghijklmno is greater than abcde
+abcdefghijklmno is greater than abcdef
+abcdefghijklmno is greater than abcdefg
+abcdefghijklmno is greater than abcdefgh
+abcdefghijklmno is greater than abcdefghi
+abcdefghijklmno is greater than abcdefghij
+abcdefghijklmno is greater than abcdefghijk
+abcdefghijklmno is greater than abcdefghijkl
+abcdefghijklmno is greater than abcdefghijklm
+abcdefghijklmno is greater than abcdefghijklmn
+abcdefghijklmno is equal to abcdefghijklmno
+abcdefghijklmno is smaller than abcdefghijklmnop
+abcdefghijklmno is smaller than abcdefghijklmnopq
+abcdefghijklmno is smaller than abcdefghijklmnopqr
+abcdefghijklmno is smaller than abcdefghijklmnopqrs
+abcdefghijklmno is smaller than abcdefghijklmnopqrst
+abcdefghijklmno is smaller than abcdefghijklmnopqrstu
+abcdefghijklmno is smaller than abcdefghijklmnopqrstuv
+abcdefghijklmno is smaller than abcdefghijklmnopqrstuvw
+abcdefghijklmno is smaller than abcdefghijklmnopqrstuvwx
+abcdefghijklmno is smaller than abcdefghijklmnopqrstuvwxy
+abcdefghijklmno is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnop is greater than a
+abcdefghijklmnop is greater than ab
+abcdefghijklmnop is greater than abc
+abcdefghijklmnop is greater than abcd
+abcdefghijklmnop is greater than abcde
+abcdefghijklmnop is greater than abcdef
+abcdefghijklmnop is greater than abcdefg
+abcdefghijklmnop is greater than abcdefgh
+abcdefghijklmnop is greater than abcdefghi
+abcdefghijklmnop is greater than abcdefghij
+abcdefghijklmnop is greater than abcdefghijk
+abcdefghijklmnop is greater than abcdefghijkl
+abcdefghijklmnop is greater than abcdefghijklm
+abcdefghijklmnop is greater than abcdefghijklmn
+abcdefghijklmnop is greater than abcdefghijklmno
+abcdefghijklmnop is equal to abcdefghijklmnop
+abcdefghijklmnop is smaller than abcdefghijklmnopq
+abcdefghijklmnop is smaller than abcdefghijklmnopqr
+abcdefghijklmnop is smaller than abcdefghijklmnopqrs
+abcdefghijklmnop is smaller than abcdefghijklmnopqrst
+abcdefghijklmnop is smaller than abcdefghijklmnopqrstu
+abcdefghijklmnop is smaller than abcdefghijklmnopqrstuv
+abcdefghijklmnop is smaller than abcdefghijklmnopqrstuvw
+abcdefghijklmnop is smaller than abcdefghijklmnopqrstuvwx
+abcdefghijklmnop is smaller than abcdefghijklmnopqrstuvwxy
+abcdefghijklmnop is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopq is greater than a
+abcdefghijklmnopq is greater than ab
+abcdefghijklmnopq is greater than abc
+abcdefghijklmnopq is greater than abcd
+abcdefghijklmnopq is greater than abcde
+abcdefghijklmnopq is greater than abcdef
+abcdefghijklmnopq is greater than abcdefg
+abcdefghijklmnopq is greater than abcdefgh
+abcdefghijklmnopq is greater than abcdefghi
+abcdefghijklmnopq is greater than abcdefghij
+abcdefghijklmnopq is greater than abcdefghijk
+abcdefghijklmnopq is greater than abcdefghijkl
+abcdefghijklmnopq is greater than abcdefghijklm
+abcdefghijklmnopq is greater than abcdefghijklmn
+abcdefghijklmnopq is greater than abcdefghijklmno
+abcdefghijklmnopq is greater than abcdefghijklmnop
+abcdefghijklmnopq is equal to abcdefghijklmnopq
+abcdefghijklmnopq is smaller than abcdefghijklmnopqr
+abcdefghijklmnopq is smaller than abcdefghijklmnopqrs
+abcdefghijklmnopq is smaller than abcdefghijklmnopqrst
+abcdefghijklmnopq is smaller than abcdefghijklmnopqrstu
+abcdefghijklmnopq is smaller than abcdefghijklmnopqrstuv
+abcdefghijklmnopq is smaller than abcdefghijklmnopqrstuvw
+abcdefghijklmnopq is smaller than abcdefghijklmnopqrstuvwx
+abcdefghijklmnopq is smaller than abcdefghijklmnopqrstuvwxy
+abcdefghijklmnopq is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqr is greater than a
+abcdefghijklmnopqr is greater than ab
+abcdefghijklmnopqr is greater than abc
+abcdefghijklmnopqr is greater than abcd
+abcdefghijklmnopqr is greater than abcde
+abcdefghijklmnopqr is greater than abcdef
+abcdefghijklmnopqr is greater than abcdefg
+abcdefghijklmnopqr is greater than abcdefgh
+abcdefghijklmnopqr is greater than abcdefghi
+abcdefghijklmnopqr is greater than abcdefghij
+abcdefghijklmnopqr is greater than abcdefghijk
+abcdefghijklmnopqr is greater than abcdefghijkl
+abcdefghijklmnopqr is greater than abcdefghijklm
+abcdefghijklmnopqr is greater than abcdefghijklmn
+abcdefghijklmnopqr is greater than abcdefghijklmno
+abcdefghijklmnopqr is greater than abcdefghijklmnop
+abcdefghijklmnopqr is greater than abcdefghijklmnopq
+abcdefghijklmnopqr is equal to abcdefghijklmnopqr
+abcdefghijklmnopqr is smaller than abcdefghijklmnopqrs
+abcdefghijklmnopqr is smaller than abcdefghijklmnopqrst
+abcdefghijklmnopqr is smaller than abcdefghijklmnopqrstu
+abcdefghijklmnopqr is smaller than abcdefghijklmnopqrstuv
+abcdefghijklmnopqr is smaller than abcdefghijklmnopqrstuvw
+abcdefghijklmnopqr is smaller than abcdefghijklmnopqrstuvwx
+abcdefghijklmnopqr is smaller than abcdefghijklmnopqrstuvwxy
+abcdefghijklmnopqr is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrs is greater than a
+abcdefghijklmnopqrs is greater than ab
+abcdefghijklmnopqrs is greater than abc
+abcdefghijklmnopqrs is greater than abcd
+abcdefghijklmnopqrs is greater than abcde
+abcdefghijklmnopqrs is greater than abcdef
+abcdefghijklmnopqrs is greater than abcdefg
+abcdefghijklmnopqrs is greater than abcdefgh
+abcdefghijklmnopqrs is greater than abcdefghi
+abcdefghijklmnopqrs is greater than abcdefghij
+abcdefghijklmnopqrs is greater than abcdefghijk
+abcdefghijklmnopqrs is greater than abcdefghijkl
+abcdefghijklmnopqrs is greater than abcdefghijklm
+abcdefghijklmnopqrs is greater than abcdefghijklmn
+abcdefghijklmnopqrs is greater than abcdefghijklmno
+abcdefghijklmnopqrs is greater than abcdefghijklmnop
+abcdefghijklmnopqrs is greater than abcdefghijklmnopq
+abcdefghijklmnopqrs is greater than abcdefghijklmnopqr
+abcdefghijklmnopqrs is equal to abcdefghijklmnopqrs
+abcdefghijklmnopqrs is smaller than abcdefghijklmnopqrst
+abcdefghijklmnopqrs is smaller than abcdefghijklmnopqrstu
+abcdefghijklmnopqrs is smaller than abcdefghijklmnopqrstuv
+abcdefghijklmnopqrs is smaller than abcdefghijklmnopqrstuvw
+abcdefghijklmnopqrs is smaller than abcdefghijklmnopqrstuvwx
+abcdefghijklmnopqrs is smaller than abcdefghijklmnopqrstuvwxy
+abcdefghijklmnopqrs is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrst is greater than a
+abcdefghijklmnopqrst is greater than ab
+abcdefghijklmnopqrst is greater than abc
+abcdefghijklmnopqrst is greater than abcd
+abcdefghijklmnopqrst is greater than abcde
+abcdefghijklmnopqrst is greater than abcdef
+abcdefghijklmnopqrst is greater than abcdefg
+abcdefghijklmnopqrst is greater than abcdefgh
+abcdefghijklmnopqrst is greater than abcdefghi
+abcdefghijklmnopqrst is greater than abcdefghij
+abcdefghijklmnopqrst is greater than abcdefghijk
+abcdefghijklmnopqrst is greater than abcdefghijkl
+abcdefghijklmnopqrst is greater than abcdefghijklm
+abcdefghijklmnopqrst is greater than abcdefghijklmn
+abcdefghijklmnopqrst is greater than abcdefghijklmno
+abcdefghijklmnopqrst is greater than abcdefghijklmnop
+abcdefghijklmnopqrst is greater than abcdefghijklmnopq
+abcdefghijklmnopqrst is greater than abcdefghijklmnopqr
+abcdefghijklmnopqrst is greater than abcdefghijklmnopqrs
+abcdefghijklmnopqrst is equal to abcdefghijklmnopqrst
+abcdefghijklmnopqrst is smaller than abcdefghijklmnopqrstu
+abcdefghijklmnopqrst is smaller than abcdefghijklmnopqrstuv
+abcdefghijklmnopqrst is smaller than abcdefghijklmnopqrstuvw
+abcdefghijklmnopqrst is smaller than abcdefghijklmnopqrstuvwx
+abcdefghijklmnopqrst is smaller than abcdefghijklmnopqrstuvwxy
+abcdefghijklmnopqrst is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstu is greater than a
+abcdefghijklmnopqrstu is greater than ab
+abcdefghijklmnopqrstu is greater than abc
+abcdefghijklmnopqrstu is greater than abcd
+abcdefghijklmnopqrstu is greater than abcde
+abcdefghijklmnopqrstu is greater than abcdef
+abcdefghijklmnopqrstu is greater than abcdefg
+abcdefghijklmnopqrstu is greater than abcdefgh
+abcdefghijklmnopqrstu is greater than abcdefghi
+abcdefghijklmnopqrstu is greater than abcdefghij
+abcdefghijklmnopqrstu is greater than abcdefghijk
+abcdefghijklmnopqrstu is greater than abcdefghijkl
+abcdefghijklmnopqrstu is greater than abcdefghijklm
+abcdefghijklmnopqrstu is greater than abcdefghijklmn
+abcdefghijklmnopqrstu is greater than abcdefghijklmno
+abcdefghijklmnopqrstu is greater than abcdefghijklmnop
+abcdefghijklmnopqrstu is greater than abcdefghijklmnopq
+abcdefghijklmnopqrstu is greater than abcdefghijklmnopqr
+abcdefghijklmnopqrstu is greater than abcdefghijklmnopqrs
+abcdefghijklmnopqrstu is greater than abcdefghijklmnopqrst
+abcdefghijklmnopqrstu is equal to abcdefghijklmnopqrstu
+abcdefghijklmnopqrstu is smaller than abcdefghijklmnopqrstuv
+abcdefghijklmnopqrstu is smaller than abcdefghijklmnopqrstuvw
+abcdefghijklmnopqrstu is smaller than abcdefghijklmnopqrstuvwx
+abcdefghijklmnopqrstu is smaller than abcdefghijklmnopqrstuvwxy
+abcdefghijklmnopqrstu is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuv is greater than a
+abcdefghijklmnopqrstuv is greater than ab
+abcdefghijklmnopqrstuv is greater than abc
+abcdefghijklmnopqrstuv is greater than abcd
+abcdefghijklmnopqrstuv is greater than abcde
+abcdefghijklmnopqrstuv is greater than abcdef
+abcdefghijklmnopqrstuv is greater than abcdefg
+abcdefghijklmnopqrstuv is greater than abcdefgh
+abcdefghijklmnopqrstuv is greater than abcdefghi
+abcdefghijklmnopqrstuv is greater than abcdefghij
+abcdefghijklmnopqrstuv is greater than abcdefghijk
+abcdefghijklmnopqrstuv is greater than abcdefghijkl
+abcdefghijklmnopqrstuv is greater than abcdefghijklm
+abcdefghijklmnopqrstuv is greater than abcdefghijklmn
+abcdefghijklmnopqrstuv is greater than abcdefghijklmno
+abcdefghijklmnopqrstuv is greater than abcdefghijklmnop
+abcdefghijklmnopqrstuv is greater than abcdefghijklmnopq
+abcdefghijklmnopqrstuv is greater than abcdefghijklmnopqr
+abcdefghijklmnopqrstuv is greater than abcdefghijklmnopqrs
+abcdefghijklmnopqrstuv is greater than abcdefghijklmnopqrst
+abcdefghijklmnopqrstuv is greater than abcdefghijklmnopqrstu
+abcdefghijklmnopqrstuv is equal to abcdefghijklmnopqrstuv
+abcdefghijklmnopqrstuv is smaller than abcdefghijklmnopqrstuvw
+abcdefghijklmnopqrstuv is smaller than abcdefghijklmnopqrstuvwx
+abcdefghijklmnopqrstuv is smaller than abcdefghijklmnopqrstuvwxy
+abcdefghijklmnopqrstuv is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvw is greater than a
+abcdefghijklmnopqrstuvw is greater than ab
+abcdefghijklmnopqrstuvw is greater than abc
+abcdefghijklmnopqrstuvw is greater than abcd
+abcdefghijklmnopqrstuvw is greater than abcde
+abcdefghijklmnopqrstuvw is greater than abcdef
+abcdefghijklmnopqrstuvw is greater than abcdefg
+abcdefghijklmnopqrstuvw is greater than abcdefgh
+abcdefghijklmnopqrstuvw is greater than abcdefghi
+abcdefghijklmnopqrstuvw is greater than abcdefghij
+abcdefghijklmnopqrstuvw is greater than abcdefghijk
+abcdefghijklmnopqrstuvw is greater than abcdefghijkl
+abcdefghijklmnopqrstuvw is greater than abcdefghijklm
+abcdefghijklmnopqrstuvw is greater than abcdefghijklmn
+abcdefghijklmnopqrstuvw is greater than abcdefghijklmno
+abcdefghijklmnopqrstuvw is greater than abcdefghijklmnop
+abcdefghijklmnopqrstuvw is greater than abcdefghijklmnopq
+abcdefghijklmnopqrstuvw is greater than abcdefghijklmnopqr
+abcdefghijklmnopqrstuvw is greater than abcdefghijklmnopqrs
+abcdefghijklmnopqrstuvw is greater than abcdefghijklmnopqrst
+abcdefghijklmnopqrstuvw is greater than abcdefghijklmnopqrstu
+abcdefghijklmnopqrstuvw is greater than abcdefghijklmnopqrstuv
+abcdefghijklmnopqrstuvw is equal to abcdefghijklmnopqrstuvw
+abcdefghijklmnopqrstuvw is smaller than abcdefghijklmnopqrstuvwx
+abcdefghijklmnopqrstuvw is smaller than abcdefghijklmnopqrstuvwxy
+abcdefghijklmnopqrstuvw is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwx is greater than a
+abcdefghijklmnopqrstuvwx is greater than ab
+abcdefghijklmnopqrstuvwx is greater than abc
+abcdefghijklmnopqrstuvwx is greater than abcd
+abcdefghijklmnopqrstuvwx is greater than abcde
+abcdefghijklmnopqrstuvwx is greater than abcdef
+abcdefghijklmnopqrstuvwx is greater than abcdefg
+abcdefghijklmnopqrstuvwx is greater than abcdefgh
+abcdefghijklmnopqrstuvwx is greater than abcdefghi
+abcdefghijklmnopqrstuvwx is greater than abcdefghij
+abcdefghijklmnopqrstuvwx is greater than abcdefghijk
+abcdefghijklmnopqrstuvwx is greater than abcdefghijkl
+abcdefghijklmnopqrstuvwx is greater than abcdefghijklm
+abcdefghijklmnopqrstuvwx is greater than abcdefghijklmn
+abcdefghijklmnopqrstuvwx is greater than abcdefghijklmno
+abcdefghijklmnopqrstuvwx is greater than abcdefghijklmnop
+abcdefghijklmnopqrstuvwx is greater than abcdefghijklmnopq
+abcdefghijklmnopqrstuvwx is greater than abcdefghijklmnopqr
+abcdefghijklmnopqrstuvwx is greater than abcdefghijklmnopqrs
+abcdefghijklmnopqrstuvwx is greater than abcdefghijklmnopqrst
+abcdefghijklmnopqrstuvwx is greater than abcdefghijklmnopqrstu
+abcdefghijklmnopqrstuvwx is greater than abcdefghijklmnopqrstuv
+abcdefghijklmnopqrstuvwx is greater than abcdefghijklmnopqrstuvw
+abcdefghijklmnopqrstuvwx is equal to abcdefghijklmnopqrstuvwx
+abcdefghijklmnopqrstuvwx is smaller than abcdefghijklmnopqrstuvwxy
+abcdefghijklmnopqrstuvwx is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxy is greater than a
+abcdefghijklmnopqrstuvwxy is greater than ab
+abcdefghijklmnopqrstuvwxy is greater than abc
+abcdefghijklmnopqrstuvwxy is greater than abcd
+abcdefghijklmnopqrstuvwxy is greater than abcde
+abcdefghijklmnopqrstuvwxy is greater than abcdef
+abcdefghijklmnopqrstuvwxy is greater than abcdefg
+abcdefghijklmnopqrstuvwxy is greater than abcdefgh
+abcdefghijklmnopqrstuvwxy is greater than abcdefghi
+abcdefghijklmnopqrstuvwxy is greater than abcdefghij
+abcdefghijklmnopqrstuvwxy is greater than abcdefghijk
+abcdefghijklmnopqrstuvwxy is greater than abcdefghijkl
+abcdefghijklmnopqrstuvwxy is greater than abcdefghijklm
+abcdefghijklmnopqrstuvwxy is greater than abcdefghijklmn
+abcdefghijklmnopqrstuvwxy is greater than abcdefghijklmno
+abcdefghijklmnopqrstuvwxy is greater than abcdefghijklmnop
+abcdefghijklmnopqrstuvwxy is greater than abcdefghijklmnopq
+abcdefghijklmnopqrstuvwxy is greater than abcdefghijklmnopqr
+abcdefghijklmnopqrstuvwxy is greater than abcdefghijklmnopqrs
+abcdefghijklmnopqrstuvwxy is greater than abcdefghijklmnopqrst
+abcdefghijklmnopqrstuvwxy is greater than abcdefghijklmnopqrstu
+abcdefghijklmnopqrstuvwxy is greater than abcdefghijklmnopqrstuv
+abcdefghijklmnopqrstuvwxy is greater than abcdefghijklmnopqrstuvw
+abcdefghijklmnopqrstuvwxy is greater than abcdefghijklmnopqrstuvwx
+abcdefghijklmnopqrstuvwxy is equal to abcdefghijklmnopqrstuvwxy
+abcdefghijklmnopqrstuvwxy is smaller than abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxyz is greater than a
+abcdefghijklmnopqrstuvwxyz is greater than ab
+abcdefghijklmnopqrstuvwxyz is greater than abc
+abcdefghijklmnopqrstuvwxyz is greater than abcd
+abcdefghijklmnopqrstuvwxyz is greater than abcde
+abcdefghijklmnopqrstuvwxyz is greater than abcdef
+abcdefghijklmnopqrstuvwxyz is greater than abcdefg
+abcdefghijklmnopqrstuvwxyz is greater than abcdefgh
+abcdefghijklmnopqrstuvwxyz is greater than abcdefghi
+abcdefghijklmnopqrstuvwxyz is greater than abcdefghij
+abcdefghijklmnopqrstuvwxyz is greater than abcdefghijk
+abcdefghijklmnopqrstuvwxyz is greater than abcdefghijkl
+abcdefghijklmnopqrstuvwxyz is greater than abcdefghijklm
+abcdefghijklmnopqrstuvwxyz is greater than abcdefghijklmn
+abcdefghijklmnopqrstuvwxyz is greater than abcdefghijklmno
+abcdefghijklmnopqrstuvwxyz is greater than abcdefghijklmnop
+abcdefghijklmnopqrstuvwxyz is greater than abcdefghijklmnopq
+abcdefghijklmnopqrstuvwxyz is greater than abcdefghijklmnopqr
+abcdefghijklmnopqrstuvwxyz is greater than abcdefghijklmnopqrs
+abcdefghijklmnopqrstuvwxyz is greater than abcdefghijklmnopqrst
+abcdefghijklmnopqrstuvwxyz is greater than abcdefghijklmnopqrstu
+abcdefghijklmnopqrstuvwxyz is greater than abcdefghijklmnopqrstuv
+abcdefghijklmnopqrstuvwxyz is greater than abcdefghijklmnopqrstuvw
+abcdefghijklmnopqrstuvwxyz is greater than abcdefghijklmnopqrstuvwx
+abcdefghijklmnopqrstuvwxyz is greater than abcdefghijklmnopqrstuvwxy
+abcdefghijklmnopqrstuvwxyz is equal to abcdefghijklmnopqrstuvwxyz
+
+****CHECK TOUPPERCASE AND TOLOWERCASE FUNCTION****
+
+ToUpperCase: A ToLowerCase: a
+ToUpperCase: AB ToLowerCase: ab
+ToUpperCase: ABC ToLowerCase: abc
+ToUpperCase: ABCD ToLowerCase: abcd
+ToUpperCase: ABCDE ToLowerCase: abcde
+ToUpperCase: ABCDEF ToLowerCase: abcdef
+ToUpperCase: ABCDEFG ToLowerCase: abcdefg
+ToUpperCase: ABCDEFGH ToLowerCase: abcdefgh
+ToUpperCase: ABCDEFGHI ToLowerCase: abcdefghi
+ToUpperCase: ABCDEFGHIJ ToLowerCase: abcdefghij
+ToUpperCase: ABCDEFGHIJK ToLowerCase: abcdefghijk
+ToUpperCase: ABCDEFGHIJKL ToLowerCase: abcdefghijkl
+ToUpperCase: ABCDEFGHIJKLM ToLowerCase: abcdefghijklm
+ToUpperCase: ABCDEFGHIJKLMN ToLowerCase: abcdefghijklmn
+ToUpperCase: ABCDEFGHIJKLMNO ToLowerCase: abcdefghijklmno
+ToUpperCase: ABCDEFGHIJKLMNOP ToLowerCase: abcdefghijklmnop
+ToUpperCase: ABCDEFGHIJKLMNOPQ ToLowerCase: abcdefghijklmnopq
+ToUpperCase: ABCDEFGHIJKLMNOPQR ToLowerCase: abcdefghijklmnopqr
+ToUpperCase: ABCDEFGHIJKLMNOPQRS ToLowerCase: abcdefghijklmnopqrs
+ToUpperCase: ABCDEFGHIJKLMNOPQRST ToLowerCase: abcdefghijklmnopqrst
+ToUpperCase: ABCDEFGHIJKLMNOPQRSTU ToLowerCase: abcdefghijklmnopqrstu
+ToUpperCase: ABCDEFGHIJKLMNOPQRSTUV ToLowerCase: abcdefghijklmnopqrstuv
+ToUpperCase: ABCDEFGHIJKLMNOPQRSTUVW ToLowerCase: abcdefghijklmnopqrstuvw
+ToUpperCase: ABCDEFGHIJKLMNOPQRSTUVWX ToLowerCase: abcdefghijklmnopqrstuvwx
+ToUpperCase: ABCDEFGHIJKLMNOPQRSTUVWXY ToLowerCase: abcdefghijklmnopqrstuvwxy
+ToUpperCase: ABCDEFGHIJKLMNOPQRSTUVWXYZ ToLowerCase: abcdefghijklmnopqrstuvwxyz
+
+****CHECK VALUEOF FUNCTION****
+
+-1000
+-995
+-990
+-985
+-980
+-975
+-970
+-965
+-960
+-955
+-950
+-945
+-940
+-935
+-930
+-925
+-920
+-915
+-910
+-905
+-900
+-895
+-890
+-885
+-880
+-875
+-870
+-865
+-860
+-855
+-850
+-845
+-840
+-835
+-830
+-825
+-820
+-815
+-810
+-805
+-800
+-795
+-790
+-785
+-780
+-775
+-770
+-765
+-760
+-755
+-750
+-745
+-740
+-735
+-730
+-725
+-720
+-715
+-710
+-705
+-700
+-695
+-690
+-685
+-680
+-675
+-670
+-665
+-660
+-655
+-650
+-645
+-640
+-635
+-630
+-625
+-620
+-615
+-610
+-605
+-600
+-595
+-590
+-585
+-580
+-575
+-570
+-565
+-560
+-555
+-550
+-545
+-540
+-535
+-530
+-525
+-520
+-515
+-510
+-505
+-500
+-495
+-490
+-485
+-480
+-475
+-470
+-465
+-460
+-455
+-450
+-445
+-440
+-435
+-430
+-425
+-420
+-415
+-410
+-405
+-400
+-395
+-390
+-385
+-380
+-375
+-370
+-365
+-360
+-355
+-350
+-345
+-340
+-335
+-330
+-325
+-320
+-315
+-310
+-305
+-300
+-295
+-290
+-285
+-280
+-275
+-270
+-265
+-260
+-255
+-250
+-245
+-240
+-235
+-230
+-225
+-220
+-215
+-210
+-205
+-200
+-195
+-190
+-185
+-180
+-175
+-170
+-165
+-160
+-155
+-150
+-145
+-140
+-135
+-130
+-125
+-120
+-115
+-110
+-105
+-100
+-95
+-90
+-85
+-80
+-75
+-70
+-65
+-60
+-55
+-50
+-45
+-40
+-35
+-30
+-25
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+100
+105
+110
+115
+120
+125
+130
+135
+140
+145
+150
+155
+160
+165
+170
+175
+180
+185
+190
+195
+200
+205
+210
+215
+220
+225
+230
+235
+240
+245
+250
+255
+260
+265
+270
+275
+280
+285
+290
+295
+300
+305
+310
+315
+320
+325
+330
+335
+340
+345
+350
+355
+360
+365
+370
+375
+380
+385
+390
+395
+400
+405
+410
+415
+420
+425
+430
+435
+440
+445
+450
+455
+460
+465
+470
+475
+480
+485
+490
+495
+500
+505
+510
+515
+520
+525
+530
+535
+540
+545
+550
+555
+560
+565
+570
+575
+580
+585
+590
+595
+600
+605
+610
+615
+620
+625
+630
+635
+640
+645
+650
+655
+660
+665
+670
+675
+680
+685
+690
+695
+700
+705
+710
+715
+720
+725
+730
+735
+740
+745
+750
+755
+760
+765
+770
+775
+780
+785
+790
+795
+800
+805
+810
+815
+820
+825
+830
+835
+840
+845
+850
+855
+860
+865
+870
+875
+880
+885
+890
+895
+900
+905
+910
+915
+920
+925
+930
+935
+940
+945
+950
+955
+960
+965
+970
+975
+980
+985
+990
+995
+1000
